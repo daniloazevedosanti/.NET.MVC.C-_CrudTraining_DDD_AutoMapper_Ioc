@@ -43,8 +43,8 @@
 *.yml           text eol=crlf
 
 
-ProjetoModeloDDD/ProjetoModeloDDD.MVC/Scripts/* linguist-vendored
-ProjetoModeloDDD/ProjetoModeloDDD.MVC/Content/* linguist-vendored
+ProjetoModeloDDD.MVC/Scripts/* linguist-vendored
+ProjetoModeloDDD.MVC/Content/* linguist-vendored
 
 #jquery.js linguist-vendored=true
 #
